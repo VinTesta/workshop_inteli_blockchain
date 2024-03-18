@@ -13,7 +13,7 @@
     "tailwindcss": "^3.4.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://VinTesta.github.io/workshop_inteli_blockchain/",
+  "homepage": "https://vintesta.github.io/workshop_inteli_blockchain/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
