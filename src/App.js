@@ -49,7 +49,7 @@ function App() {
               Clique aqui.
             </a>
           </h5>
-          <form action="" method="POST" className="flex flex-col gap-4">
+          <form action="./" method="POST" className="flex flex-col gap-4">
             <Input 
               label="Nome" 
               inputDescription="Esse nome será gravado no NFT para provar sua presença" 
