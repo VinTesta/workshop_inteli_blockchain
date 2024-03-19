@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/workshop_inteli_blockchain/static/css/main.aa587f75.css",
+    "main.js": "/workshop_inteli_blockchain/static/js/main.5ab725b9.js",
+    "static/js/453.fee9867e.chunk.js": "/workshop_inteli_blockchain/static/js/453.fee9867e.chunk.js",
+    "static/media/background-ib.svg": "/workshop_inteli_blockchain/static/media/background-ib.be11122288e47b108b7e.svg",
+    "static/media/logo.svg": "/workshop_inteli_blockchain/static/media/logo.58965ca8ba472e17524a4ed7ecd21eaf.svg",
+    "static/media/wpp.svg": "/workshop_inteli_blockchain/static/media/wpp.1cb83ae89153ec1df8bf5745388e2aaf.svg",
+    "index.html": "/workshop_inteli_blockchain/index.html",
+    "static/media/github.svg": "/workshop_inteli_blockchain/static/media/github.cd29f29a8de5aed862874d555c756d74.svg",
+    "main.aa587f75.css.map": "/workshop_inteli_blockchain/static/css/main.aa587f75.css.map",
+    "main.5ab725b9.js.map": "/workshop_inteli_blockchain/static/js/main.5ab725b9.js.map",
+    "453.fee9867e.chunk.js.map": "/workshop_inteli_blockchain/static/js/453.fee9867e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa587f75.css",
+    "static/js/main.5ab725b9.js"
+  ]
+}
